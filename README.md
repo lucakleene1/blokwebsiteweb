@@ -22,8 +22,8 @@ Luca Kleene
 Blauw
 
 #### Je focus:
-Surface plane
- 
+Responsive plane
+
 </details>
 
 
@@ -36,16 +36,16 @@ Surface plane
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-https://www.loavies.com/nl/nieuw/
+https://www.debijenkorf.nl/?gad_source=1&gclid=CjwKCAiAx_GqBhBQEiwAlDNAZrkOtt-taXWReAcRn5mQSVtqfwk_0jGlYxTfcSNi1yFdGqDB0ykTuBoCBLkQAvD_BwE
 
-#### Screenshot(s) van de eerste pagina (small screen): 
+#### Screenshot(s) van de eerste pagina (small screen):
 Homepage  
-<img src="images/homepage.PNG" width="375px" alt="screenshot homepage">
+<img src="images/homepage.PNG" width="375px" alt="screenshot homepage bijenkorf">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Nieuw  
-<img src="images/nieuw.PNG" width="375px" alt="screenshot nieuwe artikelen pagina">
- 
+<img src="images/inspiratie.PNG" width="375px" alt="screenshot inspiratiepagina bijenkorf">
+
 </details>
 
 
@@ -55,13 +55,13 @@ Nieuw
 <details>
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
-### de hele pagina: 
+### de hele pagina:
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
 
-### dynamisch deel (bijv menu): 
+### dynamisch deel (bijv menu):
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-### wellicht nog een dynamisch deel (bijv filter): 
+### wellicht nog een dynamisch deel (bijv filter):
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
@@ -150,19 +150,19 @@ Hier korte omschrijving (met indien nodig een afbeelding)
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 
-#### Titel tweede bevinding. 
+#### Titel tweede bevinding.
 Hier korte omschrijving (met indien nodig een afbeelding)
 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 
-#### Titel volgende bevinding. 
+#### Titel volgende bevinding.
 Hier korte omschrijving (met indien nodig een afbeelding)
 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 
-#### Titel nog een bevinding. 
+#### Titel nog een bevinding.
 Hier korte omschrijving (met indien nodig een afbeelding)
 
 Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
