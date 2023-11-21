@@ -41,10 +41,13 @@ https://www.debijenkorf.nl/?gad_source=1&gclid=CjwKCAiAx_GqBhBQEiwAlDNAZrkOtt-ta
 #### Screenshot(s) van de eerste pagina (small screen):
 Homepage  
 <img src="images/homepage.PNG" width="375px" alt="screenshot homepage bijenkorf">
+<img src="images/homepage2.PNG" width="375px" alt="screenshot homepage bijenkorf">
+
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Inspiratie wonen  
 <img src="images/inspiratie.PNG" width="375px" alt="screenshot inspiratiepagina bijenkorf">
+<img src="images/inspiratie2.PNG" width="375px" alt="screenshot inspiratiepagina bijenkorf">
 
 </details>
 
