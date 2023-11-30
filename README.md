@@ -56,13 +56,13 @@ Inspiratie wonen
 ## Breakdownschets (week 1)
 
 <details>
-<summary>uitwerken na afloop 2e werkgroep</summary>
+<summary>Hieronder de eerste breakdownschets nog zonder verwerkte feedback.</summary>
 
 ### de hele pagina:
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+<img src="images/breakdownschets1.PNG" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu):
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/breakdownschets2.PNG" width="375px" alt="breakdown van tweede pagina">
 
 ### wellicht nog een dynamisch deel (bijv filter):
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
@@ -76,21 +76,14 @@ Inspiratie wonen
 ## Voortgang 1 (week 2)
 
 <details open>
-<summary>uitwerken voor 1e voortgang</summary>
+<summary>Ik ben nog niet begonnen met t daadwerkelijk coderen. Wel heb ik de breakdownschet van beide pagina's van de website afgemaakt en daar wil ik nu feedback op krijgen. Na de feedback wil ik de opzet van html gaan invullen</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Het maken van de breakdownschets ging wel goed, ik heb een paar punten waar ik twijfel over het juiste element waarop ik nu graag feedback wil krijgen.
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+Ik heb de feedbackronde alleen gedaan, omdat ik tijdens de reguliere tijd niet kon. Ik heb in mijn breakdownschets vraagtekens neergezet waar ik feedback op wil
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
