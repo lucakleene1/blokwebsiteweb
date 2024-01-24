@@ -69,8 +69,6 @@ Inspiratie wonen
 
 
 
-
-
 ## Voortgang 1 (week 2)
 
 <details open>
@@ -114,39 +112,35 @@ Voor mezelf wel echt de deadline gesteld bij de volgende voortgang minstens 1 pa
 
 
 
-## Toegankelijkheidstest (week 4)
+## Toegankelijkheidstest mijn pagina (week 4)
 
 <details>
-<summary>uitwerken na test in 8e voortgang</summary>
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
 #### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+Er wordt niet aan de gebruiker duidelijk gemaakt op welke pagina hij zich momenteel van de 4 li bevindt
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+een inclusively hidden elementen waarop te horen is dat de gebruiker zich op die pagina bevind
 
 
 #### Titel tweede bevinding.
-Hier korte omschrijving (met indien nodig een afbeelding)
+Er is 2 keer een h1 te vinden op de pagina, dit is verwarrend
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+de tweede h1 'lees meer' moet een h2 worden, dit is namelijk niet het hoofdonderwerp van de pagina
 
 
 #### Titel volgende bevinding.
-Hier korte omschrijving (met indien nodig een afbeelding)
+De afbeeldingen worden helemaal niet genoemd onder de 'lees meer' section.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
+Een uitleg geven van wat op de afbeelding te zien is
 
 #### Titel nog een bevinding.
-Hier korte omschrijving (met indien nodig een afbeelding)
+de afbeeldingen van de verschillende betaalmethodes worden niet zo genoemd, dus de gebruiker met een screanreader heeft geen idee over wat voor afbeeldingne het gaat
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
+Ook de afbeeldingen weer een betere alt geven om duidelijk te maken over wat voor soort afbeeldingen het gaat
 </details>
-
 
 
 
@@ -187,7 +181,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Stand van zaken
 Allereerst heeft het coderen me echt bloed, zweet en tranen gekost. Het is voor mij persoonlijk echt een enorm mentaal struikelblok waar ik gewoon echt stress van krijg en paniek. Dit resulteerde dus in enorm uitstellen, ook vanwege 4 andere deadlines. Maar 2 weken voor de uiteindelijke deadline ben ik ervoor gaan zitten. Ik heb voor mezelf een stappenplan uitgeschreven en elke stap in detail gemaakt, zodat het voor mezelf enigszins behapbaar was. De eerste pagina maken gingen echt heel moeilijk, de main vond ik meevallen, de footer ook, maar de header met nav vond ik echt enorm lastig. De moed zakte me helemaal in de schoenen toen ik er tijdens voortgang 3 achter kwam dat ik overal in mn code classes had gebruikt en dat dus moest veranderen, maar nog nooit gebruik had gemaakt van de css selectors. Maar goed, ook dit weer in stapjes uitgeschreven en dit had ik toch snel onder de knie, dit was niet zo moeilijk. Ik ben het voor mezelf als een soort van die breadcrumbs gaan zien. 
 Ik moest nog een aantal ul en p's veranderen in linkjes, maar dit was makkelijk te doen. De tweede pagina was ook makkelijk te doen, deze bestond voor mezelf uit makkelijke elementen die goed te stylen waren. Ik merkte wel dat zodra ik alles af had en het naliep om te vertellen wat ik overal had gedaan dat ik dit lastig vond, ik heb echt zin voor zin in css dingen geprobeerd. Dus ik heb nogmaals gekeken wat ik heb gedaan, waardes verandert om te zien wat er dan gebeurt en vervolgens overal opmerkingen bijgezet. 
-Wat me helaas niet is gelukt is het javascript gedeelt. Ik heb overal svg gebruikt in mn html en ik heb eindeloos op internet gezocht naar een uitleg over hoe ik bij een onclick op een svg de kleur bijvoorbeeld kon laten veranderen. Maar hoe meer ik erin dook hoe minder ik het begreep. 
+Wat me helaas niet is gelukt is het javascript gedeelte. Ik heb overal svg gebruikt in mn html en ik heb eindeloos op internet gezocht naar een uitleg over hoe ik bij een onclick op een svg de kleur bijvoorbeeld kon laten veranderen. Maar hoe meer ik erin dook hoe minder ik het begreep. Ik heb geprobeerd in de main de eerste p te veranderen in een andere kleur als je erop klikt maar dat lukte me ook niet
 
 Als laatste heb ik nog veel dingen duidelijker gemaakt om de screen reader beter eroverheen te laten lopen. 
 ### Screenshot(s)
@@ -225,6 +219,10 @@ hier screenshot(s) van je eindresultaat
 12. https://codepen.io/jcasabona/pen/GorKPx voor javascript svg
 13. https://stackoverflow.com/questions/9872947/changing-svg-image-color-with-javascript voor javascript svg
 14. https://css-tricks.com/snippets/css/a-guide-to-flexbox/ voor alles over de flexbox
+15. https://clamp.font-size.app/?config=eyJyb290IjoiMTYiLCJtaW5XaWR0aCI6IjUwMHB4IiwibWF4V2lkdGgiOiI5MDBweCIsIm1pbkZvbnRTaXplIjoiMTZweCIsIm1heEZvbnRTaXplIjoiNjVweCJ9 voor het meebewegen van de tekst grootte
+16. https://css-tricks.com/almanac/properties/f/flex-basis/ flex basis
+17. https://css-tricks.com/almanac/properties/o/object-fit/ object fit
+18. http://www.homepage-maken.nl/javascript/les2.php js toevoegen waar
 
 Daarnaast heb ik persoonlijk echt heel veel aan het boek gehad 'HTML & CSS design and build websites van Jon Duckett. Hier stond ook alles in stapjes uitgelegd en dit volgde ik een beetje. Ik vond het vaak namelijk moeilijk om te zoeken op het internet omdat ik niet eens wist welke termen ik moest zoeken. En in het boek kon ik gemakkelijk onder 'tekst' alles vinden wat hiermee te maken had en de styling hiervan.
 
